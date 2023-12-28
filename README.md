@@ -1,1 +1,0 @@
-# TF2_info_bot
